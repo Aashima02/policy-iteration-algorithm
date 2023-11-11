@@ -25,8 +25,8 @@ The transition probabilities for the problem statement is:
 To reach state 7 (Goal) : +1 otherwise : 0
 
 ### Graphical Representation:
-![image](https://github.com/Aashima02/policy-iteration-algorithm/assets/93427086/23c50d3f-ad11-49b5-8dc1-3f3338f54ec6)
 
+<img width="500"  src="https://github.com/Aashima02/policy-iteration-algorithm/assets/93427086/23c50d3f-ad11-49b5-8dc1-3f3338f54ec6">
 
 ## POLICY ITERATION ALGORITHM:
 The algorithm implemented in the policy_iteration is a method used to find the optimal policy in a Markov decision process (MDP). Here's a step-by-step explanation of the algorithm:
